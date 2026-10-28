@@ -1,0 +1,22 @@
+
+{
+  "id": "./",
+  "name": "NOOR - نور",
+  "short_name": "نور",
+  "description": "رفيق القرآن والذكر",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f7f3",
+  "theme_color": "#0d5335",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
