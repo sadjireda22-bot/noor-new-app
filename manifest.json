@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Noor | نور",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "نور",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
