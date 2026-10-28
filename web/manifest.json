@@ -1,11 +1,24 @@
+
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "Noor | نور",
-  "orientation": "any",
-  "scope": "/",
+  "id": "./",
+  "name": "NOOR - نور",
   "short_name": "نور",
-  "start_url": "/",
-  "theme_color": "#ffffff"
+  "description": "رفيقك للقرآن الكريم والتلاوة والحفظ والأذكار والأحاديث ومواقيت الصلاة",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f7f3",
+  "theme_color": "#0d5335",
+  "categories": ["education", "lifestyle"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
 }
