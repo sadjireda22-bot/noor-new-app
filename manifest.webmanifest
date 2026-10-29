@@ -38,14 +38,14 @@
   "screenshots": [
     {
       "src": "./screenshots/Screenshot_2026-10-29-10-19-56-10_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
-      "sizes": "1080x2400",
+      "sizes": "720x1600",
       "type": "image/jpeg",
       "form_factor": "narrow",
       "label": "الصفحة الرئيسية لتطبيق نور"
     },
     {
       "src": "./screenshots/Screenshot_2026-10-29-10-20-04-09_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
-      "sizes": "1080x2400",
+      "sizes": "720x1600",
       "type": "image/jpeg",
       "form_factor": "narrow",
       "label": "واجهة تطبيق نور"
