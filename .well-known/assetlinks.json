@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.sadjireda22_bot.twa",
+        "sha256_cert_fingerprints": ["FA:91:22:EE:A1:43:B0:E1:7F:02:40:64:DE:C6:F1:9A:C4:76:05:B5:42:CC:4A:50:13:10:FE:6F:EC:49:74:C6"]
+      }
+    }]
