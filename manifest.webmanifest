@@ -1,22 +1,70 @@
 
 {
   "id": "./",
-  "name": "NOOR - نور",
+  "name": "NOOR - نور | القرآن والأذكار",
   "short_name": "نور",
-  "description": "رفيق القرآن والذكر", 
+  "description": "نور رفيقك الإسلامي اليومي لقراءة القرآن الكريم والأذكار والتقرب إلى الله، بواجهة عربية سهلة وتصميم مريح.",
   "lang": "ar",
   "dir": "rtl",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f3f7f3",
+  "display_override": [
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait",
   "theme_color": "#0d5335",
+  "background_color": "#f3f7f3",
+  "categories": [
+    "education",
+    "lifestyle",
+    "utilities"
+  ],
   "icons": [
-  {
-    "src": "./noor-icon-192.png",
-    "sizes": "192x192",
-    "type": "image/png",
-    "purpose": "any"
-  }
-]
+    {
+      "src": "./noor-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./noor-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "./screenshots/Screenshot_2026-10-29-10-19-56-10_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+      "sizes": "1080x2400",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "الصفحة الرئيسية لتطبيق نور"
+    },
+    {
+      "src": "./screenshots/Screenshot_2026-10-29-10-20-04-09_40deb401b9ffe8e1df2f1cc5ba480b12.jpg",
+      "sizes": "1080x2400",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "واجهة تطبيق نور"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "فتح نور",
+      "short_name": "نور",
+      "description": "فتح الصفحة الرئيسية لتطبيق نور",
+      "url": "./",
+      "icons": [
+        {
+          "src": "./noor-icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
+  "prefer_related_applications": false
 }
