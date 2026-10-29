@@ -3,7 +3,7 @@
   "id": "./",
   "name": "NOOR - نور",
   "short_name": "نور",
-  "description": "رفيق القرآن والذكر",
+  "description": "رفيق القرآن والذكر", 
   "lang": "ar",
   "dir": "rtl",
   "start_url": "./",
